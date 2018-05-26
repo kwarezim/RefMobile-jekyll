@@ -9,3 +9,8 @@ jekyll build --destination <destination>
 jekyll build --watch
 # => The current folder will be generated into ./_site,
 #    watched for changes, and regenerated automatically.
+
+
+
+ftp://waws-prod-db3-093.ftp.azurewebsites.windows.net
+cem/MobileApp2017!
